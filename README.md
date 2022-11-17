@@ -1,6 +1,6 @@
 # Congo
 This is a relaxed game version of chess. The project is written in C++ and in the project I use algorithms to try simulate a competitive environment with minimax approach!!
-The project is split into % Parts
+The project is split into 5 Parts
 
 State of game : Forsyth–Edwards Notation (FEN) is a standard way of encoding chess positions as a string
 
